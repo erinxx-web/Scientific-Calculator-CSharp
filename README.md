@@ -1,5 +1,15 @@
 # Scientific-Calculator-CSharp
 
+This project is a desktop scientific calculator application developed using C# Windows Forms.
+
+Features:
+- Basic arithmetic operations
+- Scientific functions (log, ln, sin, cos, tan)
+- Keyboard input support
+- DEG / RAD mode
+
+This repository contains the full source code for the project.
+
 ```csharp
 using System;
 using System.Collections.Generic;
